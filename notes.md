@@ -15,3 +15,5 @@ SSH Key generation for Windows (necessary if pushing for first time on new machi
 - https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 - view SSH key with command <cat ~/.ssh/id_rsa.pub>
 - copy from Windows bash using command <Ctrl + Shift + C>
+- password authentication was removed in 2021, they require personal access token instead
+- https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
