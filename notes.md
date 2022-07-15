@@ -19,5 +19,5 @@ SSH Key generation for Windows (necessary if pushing for first time on new machi
 - https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
 
 How to delete a git branch
-- Github: make sure you're on the branch, run command "git push origin --delete (branch-name)"
+- Github: make sure you're on the branch, run command "git push origin (branch-name) --delete"
 - Locally: make sure you're not on the branch, run command "git branch -D (branch-name)"
